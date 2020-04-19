@@ -1,0 +1,1 @@
+bookStore-stock-manager
